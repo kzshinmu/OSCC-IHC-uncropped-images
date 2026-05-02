@@ -2,7 +2,7 @@
 
 This repository contains uncropped original immunohistochemical (IHC) images related to the manuscript:
 
-“KRT1 and KRT18 are reliable immunohistochemical markers for distinguishing pulmonary metastases of oral squamous cell carcinoma from primary lung squamous cell carcinoma.”
+“Keratin 1 and keratin 18 as immunohistochemical markers for distinguishing pulmonary metastases of oral squamous cell carcinoma from primary lung squamous cell carcinoma.”
 
 ## Folder structure
 
