@@ -7,8 +7,8 @@ This repository contains uncropped original immunohistochemical (IHC) images rel
 ## Folder structure
 
 - Figure_1
-- Figure_2B
-- Figure_2C
+- Figure_3B
+- Figure_3C
 - Supplementary_Figure_S1
 - Supplementary_Figure_S2
 
